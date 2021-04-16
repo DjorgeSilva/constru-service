@@ -7,6 +7,10 @@ import sede5 from '../../../assets/img/posto_sede.jpg'
 import sede6 from '../../../assets/img/balanca_sede.jpg'
 import sede7 from '../../../assets/img/erm_estoque_sede.jpg'
 import sede8 from '../../../assets/img/erm_operacional_sede.jpg'
+import sede9 from '../../../assets/img/lavajato_sede.jpg'
+import sede10 from '../../../assets/img/almoxarifado_sede.jpg'
+import sede11 from '../../../assets/img/borracharia_sede.jpg'
+
 
 
 export const DataSede= [
@@ -15,16 +19,16 @@ export const DataSede= [
         name: "Parte Administrativa",
     },
     {
-        img: sede2,
-        name: "Restaurante Interno",
-    },
-    {
-        img: sede3,
-        name: "Sala de Descanso Motoristas",
+        img: sede10,
+        name: "Almoxarifado",
     },
     {
         img: sede4,
         name: "Oficina Central",
+    },
+    {
+        img: sede2,
+        name: "Restaurante Interno",
     },
     {
         img: sede5,
@@ -35,12 +39,24 @@ export const DataSede= [
         name: "Balança",
     },
     {
+        img: sede3,
+        name: "Sala de Descanso Motoristas",
+    },
+    {
         img: sede7,
         name: "Estoque de produtos betuminosos",
     },
     {
         img: sede8,
         name: "Operação de Produtos Asfáltico",
+    },
+    {
+        img: sede11,
+        name: "Borracharia",
+    },
+    {
+        img: sede9,
+        name: "Lava Jato",
     },
 ]
 
