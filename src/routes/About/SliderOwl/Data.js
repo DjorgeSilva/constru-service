@@ -15,6 +15,11 @@ import adm13 from "../../../assets/img/adm24.jpg"
 import adm14 from "../../../assets/img/adm25.jpg"
 import adm15 from "../../../assets/img/adm26.jpg"
 import adm16 from "../../../assets/img/mathaus1.jpeg"
+import adm17 from "../../../assets/img/adm27.jpg"
+import adm18 from "../../../assets/img/adm28.jpg"
+import adm19 from "../../../assets/img/adm29.jpg"
+import adm20 from "../../../assets/img/adm30.jpg"
+import adm21 from "../../../assets/img/adm31.jpg"
 
 
 
@@ -78,7 +83,7 @@ export const DataTodos = [
     },
     {
         img: adm6,
-        name: "Mohamede Selen Brain",
+        name: "Mohamede Saleh Brahin",
         ref: "Encarregado de Logística",
     },
     {
@@ -99,6 +104,26 @@ export const DataTodos = [
     {
         img: adm15,
         name: "Tatiane Galvão",
+        ref: "Recepcionista",
+    },
+    {
+        img: adm17,
+        name: "Daniel Silva",
+        ref: "Recepcionista",
+    },
+    {
+        img: adm18,
+        name: "Ronny Rodrigues",
+        ref: "Recepcionista",
+    },
+    {
+        img: adm19,
+        name: "Daniel Costa",
+        ref: "Recepcionista",
+    },
+    {
+        img: adm21,
+        name: "Francisco Moreira",
         ref: "Recepcionista",
     },
 ]
