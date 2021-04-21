@@ -83,7 +83,7 @@ export const Nav = ({ isOpen, setIsOpen }) => {
                                     <Link to="/contato" style={LinkStyle} className="link" onClick={handleClickLink}>Contato</Link>
                                 </li>
 
-                                <li className="li-mais" onClick={() => setIsOpenMais(!isOpenMais)}>
+                                {/* <li className="li-mais" onClick={() => setIsOpenMais(!isOpenMais)}>
                                     Mais
                                     {isOpenMais ?
                                         <>
@@ -106,7 +106,7 @@ export const Nav = ({ isOpen, setIsOpen }) => {
                                         <IoMdArrowDropdown className="icone-mais" />
                                     }
 
-                                </li>
+                                </li> */}
                             </ul>
                         </nav>
                     </S.MenuDeskTop>
